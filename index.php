@@ -1,10 +1,20 @@
 <?php
+
 // phpcs:disable
+
 class Test
 {
-    public function _test()
+    public function say()
     {
         $a = 2;
-        echo $b;
+        echo $a;
+    }
+
+    public function hello()
+    {
+    }
+
+    public function help()
+    {
     }
 }
