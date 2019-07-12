@@ -1,10 +1,10 @@
 <?php
+// phpcs:disable
 class Test
 {
     public function _test()
     {
-        $a = array('name' => 111);
-        $a[] = 'b';
-        $c = [];
+        $a = 2;
+        echo $b;
     }
 }
